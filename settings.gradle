@@ -1,0 +1,2 @@
+rootProject.name = "CU_Lab_MST_1"
+include ':app'
